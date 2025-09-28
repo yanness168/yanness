@@ -7,7 +7,8 @@ Hi, I'm Biyan Huang (known as Yanness online), a passionate software developer a
 - **LinkedIn**: [Yanness Huang](https://www.linkedin.com/in/yanness-huang-269506226)
 - **Location**: Markham, ON
 - **Skills Badges**:
-[![My Skills](https://skillicons.dev/icons?i=python,golang,docker,java,react,nodejs,django,springboot,sql,powerbi,jupyter,scikit,jenkins,kubernetes)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python,golang,aws,docker,js,java,react,nodejs,django,jenkins,kubernetes,git,prometheus,redis,)](https://skillicons.dev)
 
 
 ## Education
@@ -51,12 +52,6 @@ Toronto, ON
 - Performed multi-step data preprocessing on 1,000,000+ rows of data and engineered features using business logic to improve model performance. Utilized Python to develop robust baseline models (Random Forest, LGBM, and XGBoost) as benchmarks.  
 - Employed hyperparameter tuning techniques (Optuna, Grid Search) to enhance model accuracy by 23% F1-score on the classifier and integrated classifier outputs into clustering for improved revenue segmentation prediction.  
 - Effectively communicated complex data insights to stakeholders, collaborated with team members to refine model metrics, and presented findings to both technical and business audiences, driving CLV development with a 200% increase in stakeholder engagement.
-
-## Technical Skills & Highlights
-- **Programming Languages & Tools**: Proficient in Golang, Python, SQL, Power BI, Java, JavaScript, and various web development technologies (React, React Native, Django, Node.js, Spring Boot).  
-- **Data Analysis & Machine Learning**: Extensive experience using Python (NumPy, pandas, scikit-learn, matplotlib) for data analysis, machine learning (clustering, classification, time series), building predictive models, and dashboards using Power BI.  
-- **Problem Solving & Critical Thinking**: Proven ability to analyze complex problems, derive insights from data, and communicate findings effectively to both technical and non-technical stakeholders.  
-- **Requirements Gathering & Solution Design**: Adept at collaborating with business partners to understand requirements, translate them into technical specifications, and design robust solutions that meet project needs.
 
 ## Certificates
 - **Data Analytics Certificate** – Google  
