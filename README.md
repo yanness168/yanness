@@ -7,6 +7,7 @@ Hi, I'm Biyan Huang (known as Yanness online), a passionate software developer a
 - **LinkedIn**: [Yanness Huang](https://www.linkedin.com/in/yanness-huang-269506226)
 - **Location**: Markham, ON
 - **Skills**:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python, java, postman, docker, jenkins)](https://skillicons.dev)
 
 ## Education
