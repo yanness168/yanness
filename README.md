@@ -6,12 +6,9 @@ Hi, I'm Biyan Huang (known as Yanness online), a passionate software developer a
 - **GitHub**: [yanness168](https://github.com/yanness168) (32 public repositories)
 - **LinkedIn**: [Yanness Huang](https://www.linkedin.com/in/yanness-huang-269506226)
 - **Location**: Markham, ON
-- **Skills**:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+- **Skills Badges**:
+[![My Skills](https://skillicons.dev/icons?i=python,golang,docker,java,react,nodejs,django,springboot,sql,powerbi,jupyter,scikit,jenkins,kubernetes)](https://skillicons.dev)
+
 
 ## Education
 ### York University
