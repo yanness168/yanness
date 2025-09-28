@@ -1,5 +1,4 @@
-# Biyan Huang (Yanness) - Software Developer & Data Scientist
-
+# Biyan Huang (Yanness) - Software Developer
 ## About Me
 Hi, I'm Biyan Huang (known as Yanness online), a passionate software developer and data scientist based in Markham, ON, Canada. Currently pursuing a Bachelor's in Applied Science at York University, I have a strong foundation in full-stack development, data analysis, and machine learning. With hands-on experience from internships at IBM and Scotiabank, I enjoy building scalable applications, deriving insights from data, and solving real-world problems through code.
 
@@ -7,7 +6,7 @@ Hi, I'm Biyan Huang (known as Yanness online), a passionate software developer a
 - **GitHub**: [yanness168](https://github.com/yanness168) (32 public repositories)
 - **LinkedIn**: [Yanness Huang](https://www.linkedin.com/in/yanness-huang-269506226)
 - **Location**: Markham, ON
-- **Interests**: Web development, AI/ML, cloud engineering, open-source contributions
+- **Skills**:  JavaScript TypeScript Java Python C++ HTML5 React JQuery CSS3 Redux NodeJS PostgreSQL 
 
 ## Education
 ### York University
