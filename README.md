@@ -6,7 +6,7 @@ Hi, I'm Biyan Huang (known as Yanness online), a passionate software developer a
 - **GitHub**: [yanness168](https://github.com/yanness168) (32 public repositories)
 - **LinkedIn**: [Yanness Huang](https://www.linkedin.com/in/yanness-huang-269506226)
 - **Location**: Markham, ON
-- **Skills**:  JavaScript TypeScript Java Python C++ HTML5 React JQuery CSS3 Redux NodeJS PostgreSQL 
+- **Skills**:  [![My Skills](https://skillicons.dev/icons?i=python, postman,docker, java)](https://skillicons.dev)
 
 ## Education
 ### York University
